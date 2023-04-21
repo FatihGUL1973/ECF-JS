@@ -1,0 +1,56 @@
+.menu {
+    height:120px;
+    background-color: black;
+    color: white;
+    opacity: 0.65;
+}
+
+#section1 {
+    height: 150px;
+    background-image:url(Roasted_coffee_beans.jpg);
+    background-size: cover;
+    color: white;
+}
+
+#people img{
+    
+    width: 80%;
+    height: 80%;
+    margin-left: 10px;
+    margin-right: 20px;
+
+} 
+
+#people{
+    
+    margin-top: 10px;
+    
+
+}
+
+.foot {
+    position: fixed;
+  
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    
+}
+
+.encadre{
+    border: 1px solid rgb(14, 105, 128); padding: 3px; 
+    color:aqua;
+}
+
+#cafe {
+    
+    background-image:url(coffeeshop.jpeg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    opacity: 0.95;
+    padding: 4em 0;
+}
+
